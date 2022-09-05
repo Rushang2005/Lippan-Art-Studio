@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+.heading {
+    color: black;
+    text-align: center;
+}
+
+.introduction {
+    color: black;
+    text-align: center;
+}
+
+.about {
+    color: black;
+    text-align: center;
+}
+
+.work {
+    color: black;
+    text-align: center;
+}
+
+.handmade {
+    color: black;
+    text-align: center;
+}
+
+.payment {
+    color: black;
+    text-align: center;
+}
+
+.delivery {
+    color: black;
+    text-align: center;
+}
+
+.heading span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.introduction span {
+    background-color: #eda800;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.about span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.work span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.handmade span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.payment span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.delivery span {
+    background: #eda800;
+    color: #fff;
+    display: inline-block;
+    padding: .5rem 3rem;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.pabout {
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.soon {
+    text-align: center;
+    position: relative;
+    top: 17rem;
+}
+
+.hmaintance {
+    font-size: 2.5rem;
+    text-align: center;
+    position: relative;
+    top: 17rem;
+}
